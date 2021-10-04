@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrap {
+    margin: 0 auto;
+    text-align: center;
+}
+#nheader {
+    background-image: url(image/859e05511f_nodam_161110-prince-1152.jpg);
+    background-position: bottom;
+    background-color: chartreuse;
+    padding: 35px;
+    height: 150px;
+     letter-spacing: 4px;
+     word-spacing: 4px;
+      
+}
+h1{ 
+    color: cornsilk;
+}
+img{
+    border: solid 2px white;
+}
+
+#nparag {
+    background-image: url(image/picture.jpg);
+    background-attachment: fixed;
+    background-color: blue;
+    height: 350px;
+    padding-top:  30px;
+}
+.text_para{
+    color: white;
+    font-size: 24px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#footer {
+    background-color: chartreuse;
+    padding: 50px;
+}
+.redcolor {
+    color: red;
+}
